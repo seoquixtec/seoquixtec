@@ -1,0 +1,2 @@
+# seoquixtec
+QuixTec’s Microsoft SharePoint development services delivers our customers user-friendly, feature-rich SharePoint applications.  By leveraging SharePoint’s flexibility, the solutions we create welcome your users to collaborate and capture crucial information  necessary to efficiently complete tasks. In fact, we're so confident about our SharePoint consulting, whether you have SharePoint  online or SharePoint on premises, we are experienced with SharePoint 2010, SharePoint 2013, SharePoint 2016 and SharePoint 2019.
